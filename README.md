@@ -28,7 +28,6 @@
 <br/>
 <br/>
 
-<hr>
 
 <h2><img  height="20" src="https://cdn-icons-png.flaticon.com/512/4413/4413562.png" /> SKILLS</h2>
 
