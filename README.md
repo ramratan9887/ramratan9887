@@ -19,7 +19,7 @@
 <div align="left">
  <ul>
 <!--  <li>🔎 I’m looking for frontend developer opportunities</li> -->
-  <li>🌱 I’m currently working as Software Engineer at <a href="https://www.pw.live/">Physics Wallah</a> </li>
+  <li>🌱 I’m currently working as Software Engineer at <a href="https://www.geeksforgeeks.org/">Geeksforgeeks</a> </li>
  <li>💬 Ask me about JavaScript, ReactJS and MERN Stack</li>
  <li>📫 How to reach me <a href="mailto:ramratanchoudhary9887@gmail.com?subject=Contact From GitHub Users&body=Hi,Richhapal Choudhary" target="blank">ramratanchoudhary9887@gmail.com</a></li>
  </ul>
